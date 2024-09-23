@@ -17,7 +17,7 @@ In this project, I used a combination of Excel formulas, sub-tables, and pivot t
 - **ISNUMBER** and **SEARCH**: Employed to check for numeric values and search for specific text within a dataset.
 - **IFERROR**: Used to handle errors gracefully in calculations, providing default outputs when errors occur.
 - **LEFT**: To extract the first few characters of a string, useful for processing identifiers.
-- 
+  
 - **Pivot Tables**: For summarizing large datasets, creating dynamic reports on deposits, popular games, and transaction volumes.
 - **Sub-tables**: Utilized to organize data and make it more manageable for complex formula operations and calculations.
 - **Outlier Detection**: Identified outlier transactions based on statistical techniques like standard deviation.
